@@ -1,8 +1,14 @@
 data/
+models/
+lp_directory/
+
 .DS_Store
 .python-version
-.env
-.ipynb_checkpoints
 
-models/
-__pycache__
+.env
+.envrc
+*/__pycache__
+aimaging.egg-info/
+*/.ipynb_checkpoints
+
+requirements_prod.txt
