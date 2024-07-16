@@ -17,7 +17,7 @@ _A Deep Learning based solution for MR & CT diseases detection._
 
 ## Project
 
-_Medical AIMaging is our Le Wagon bootcamp project_
+*Medical AIMaging is our Le Wagon bootcamp project*
 
 The tool can detect 36 diseases in 5 organs. It has been trained on Rad Image Net dataset.
 
