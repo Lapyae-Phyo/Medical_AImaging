@@ -23,6 +23,8 @@ _Medical AIMaging is our Le Wagon bootcamp project_
 
 The tool can detect 36 diseases in 5 organs. It has been trained on Rad Image Net dataset.
 
+## プロジェクト概要
+
 深層学習モデルを使用した、MR及びCTの画像から5つの臓器の36種類の疾患を検出できる、ウェブアプリ開発プロジェクトです。このプロジェクトでは、以下の技術を用いました：
 
 * **臓器検出モデルのトレーニング、バイナリ分類モデル、疾患分類モデルのトレーニング:** 畳み込みニューラルネットワークを用いて、高精度な臓器検出モデルをトレーニングしました。
